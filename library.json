@@ -1,0 +1,16 @@
+{
+  "name":"lwm2m_wakaama",
+  "description":"SEED",
+  "keywords":"TIME,NTP,ID,SYS",
+  "version": "0.0.2",
+  "authors": {
+    "name":  "qitas",
+    "email": "qitas@qitas.cn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OS-Q/D026.git"
+  },
+  "frameworks": "arduino",
+  "platforms":"espressif,esp8266,samd"
+}
